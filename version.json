@@ -1,5 +1,5 @@
 {
-  "version": "3.9.0",
+  "version": "3.9.2",
   "download_url": "https://github.com/Joejoe8024/CYD-UniDisplay/releases/download/v3.9.0/CYD_UniDisplay_v3.9.0_OTA.bin",
   "changelog": "Fix F1 calendar display bugs, enabled OTA update from own repository",
   "min_version": "3.0.0",
