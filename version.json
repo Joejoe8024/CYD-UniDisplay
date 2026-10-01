@@ -1,7 +1,7 @@
 {
-  "version": "2.1.1",
-  "download_url": "https://github.com/Xylopyrographer/CYD_DD/releases/download/v2.1.1/CYD_DataDisplay_v2.1.1_R_OTA.bin",
-  "changelog": "Fix timezone/DST bugs: guard against empty posixTZ from API failure, correct standard vs DST offset storage, prevent weather update from overwriting manual timezone.",
-  "min_version": "2.0.0",
+  "version": "3.9.0",
+  "download_url": "https://github.com/Joejoe8024/CYD-UniDisplay/releases/download/CYD_UniDisplay_v3.9.0_OTA.bin",
+  "changelog": "Fix F1 calendar display bugs, enabled OTA update from own repository",
+  "min_version": "3.0.0",
   "force_update": false
 }
