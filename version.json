@@ -1,5 +1,5 @@
 {
-  "version": "3.9.6",
+  "version": "3.9.5",
   "download_url": "https://github.com/Joejoe8024/CYD-UniDisplay/releases/download/v3.9.5/CYD_UniDisplay_v3.9.5_OTA.bin",
   "changelog": "short delay after ENS160 data reading; enabled OTA update from own repository",
   "min_version": "3.0.0",
