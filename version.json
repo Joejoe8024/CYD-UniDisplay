@@ -1,7 +1,7 @@
 {
-  "version": "3.9.9",
-  "download_url": "https://github.com/Joejoe8024/CYD-UniDisplay/releases/download/v3.9.9/CYD_UniDisplay_v3.9.9_OTA.bin",
-  "changelog": "short delay after ENS160 data reading; enabled OTA update from own repository",
-  "min_version": "3.0.0",
-  "force_update": false
+version	"3.9.9"
+download_url	"https://github.com/Joejoe8024/CYD-UniDisplay/releases/download/v3.9.9/CYD_UniDisplay_v3.9.9_OTA.bin"
+changelog	"Fix F1 calendar display bugs, fixed UTC/local time conversion, added new font for better readability (full Latin support)"
+min_version	"3.0.0"
+force_update	false
 }
